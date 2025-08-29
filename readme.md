@@ -54,7 +54,7 @@ A modern, easy-to-use GUI for managing your Minecraft (Forge) server, built with
 
 1.  Go to the **[GitHub Releases](https://github.com/tomszr/CreeperManager/releases)** page.
 
-2.  Download the latest `CreeperManager.exe` file.
+2.  Download the latest `CreeperManager` file.
 
 3.  Run the application. On the first launch, it will guide you to select your server's `.jar` file. All settings will be automatically saved in a `config.ini` file created in the same folder.
 
@@ -98,7 +98,7 @@ This software is released under a proprietary license.
 
 - **You ARE allowed to:**
 
-    - Use this software for personal and commercial purposes.
+    - Use this software for personal purposes.
 
     - Share the compiled `.exe` application freely.
 
